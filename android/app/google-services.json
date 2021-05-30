@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "849838154762",
+    "project_id": "chat-app-4c4c0",
+    "storage_bucket": "chat-app-4c4c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849838154762:android:d794bae282e0a42be0abf3",
+        "android_client_info": {
+          "package_name": "com.vibhor.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849838154762-pme4gjdrr6vuicj22l3s54srhhfhc2b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARn4XG5IOsXMwZJpU4tkzQLzCC-4uFX68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849838154762-pme4gjdrr6vuicj22l3s54srhhfhc2b4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
